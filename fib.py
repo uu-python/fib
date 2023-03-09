@@ -1,3 +1,4 @@
+
 def fib(n):
     """
     Return the first Fibonacci number above n.
